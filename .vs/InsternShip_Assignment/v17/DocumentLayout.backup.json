@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HocTap\\InsternShip_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\context\\dbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\context\\dbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\context\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\context\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\context\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\context\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\context\\dbmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\context\\dbmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|c:\\hoctap\\insternship_assignment\\instership_assisgnment\\context\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5D76552F-36C6-436B-A26D-DAC6A12D0C08}|InsterShip_Assisgnment\\InsterShip_Assisgnment.csproj|solutionrelative:instership_assisgnment\\context\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T16:04:31.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T16:04:25.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T16:01:34.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Models\\HomeModel.cs",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:46:07.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T15:41:59.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:38:29.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbModel.Context.tt",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Context\\dbModel.Context.tt",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Context\\dbModel.Context.tt",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Context\\dbModel.Context.tt",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Context\\dbModel.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-15T15:38:20.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Context\\dbModel.edmx",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Context\\dbModel.edmx",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Context\\dbModel.edmx [Diagram1]",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Context\\dbModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-15T15:38:19.608Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonHoc.cs",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Context\\MonHoc.cs",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Context\\MonHoc.cs",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Context\\MonHoc.cs",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Context\\MonHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:36:50.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KhoaHoc.cs",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Context\\KhoaHoc.cs",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Context\\KhoaHoc.cs",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Context\\KhoaHoc.cs",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Context\\KhoaHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:36:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbModel.Context.cs",
+              "DocumentMoniker": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Context\\dbModel.Context.cs",
+              "RelativeDocumentMoniker": "InsterShip_Assisgnment\\Context\\dbModel.Context.cs",
+              "ToolTip": "C:\\HocTap\\InsternShip_Assignment\\InsterShip_Assisgnment\\Context\\dbModel.Context.cs",
+              "RelativeToolTip": "InsterShip_Assisgnment\\Context\\dbModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:32:55.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

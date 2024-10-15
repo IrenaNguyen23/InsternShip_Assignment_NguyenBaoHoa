@@ -1,0 +1,78 @@
+﻿@model InsterShip_Assisgnment.Models.HomeModel
+
+<div class="container mt-4">
+    <div class="row g-5">
+        <!-- Danh sách môn học -->
+        <div class="col-md-8 border-end border-5 border-success-subtle">
+            <h3 class="border-bottom border-2 border-warning py-2 fw-bold">Khóa Học: @Model.SelectedKhoaHocName</h3> <!-- Hiển thị tên khóa học đã chọn -->
+            <div id="subject-list">
+                @if (Model.ListMonHoc != null && Model.ListMonHoc.Count > 0)
+                {
+                    if (Model.ListMonHoc.Count >= 2)
+                    {
+                        <div class="row">
+                            @{
+                                int totalMonHocs = Model.ListMonHoc.Count;
+                                int half = (totalMonHocs + 1) / 2; // Số môn học cho mỗi cột
+                                int index = 1; // Biến để theo dõi chỉ số liên tục
+                            }
+                            <div class="col-md-6">
+                                <!-- Cột 1 -->
+                                <ul class="list">
+                                    @for (int i = 0; i < half; i++)
+                                    {
+                                        <li class="list-group-item">@index. @Model.ListMonHoc[i].TenMonHoc</li>
+                                        index++; // Tăng chỉ số
+                                    }
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <!-- Cột 2 -->
+                                <ul class="list">
+                                    @for (int i = half; i < totalMonHocs; i++)
+                                    {
+                                        <li class="list-group-item">@index. @Model.ListMonHoc[i].TenMonHoc</li>
+                                        index++; // Tăng chỉ số
+                                    }
+                                </ul>
+                            </div>
+                        </div>
+                    }
+                    else 
+                    {
+                        <ul class="list">
+                            @foreach (var mon in Model.ListMonHoc)
+                            {
+                                <li class="list-group-item">1. @mon.TenMonHoc</li>
+                            }
+                        </ul>
+                    }
+                }
+                else
+                {
+                    <p>Hãy chọn một khóa học để xem danh sách môn học.</p>
+                }
+            </div>
+
+
+
+        </div>
+
+        <!-- Danh sách khóa học -->
+        <div class="col-md-4">
+            <h3 class="border-bottom border-2 border-warning py-2 fw-bold">Khóa học</h3>
+            <ul class="">
+                <!-- Sử dụng thẻ <ul> để tạo danh sách có dấu chấm -->
+                @foreach (var khoa in Model.ListKhoaHoc)
+                {
+                    <li class="">
+                        <!-- Thay đổi từ <a> thành <li> -->
+                        <a href="@Url.Action("MonHocByKhoaHoc", "Home", new { khoaHocId = khoa.ID })" class="list-group-item">
+                            @khoa.TenKhoaHoc
+                        </a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>
